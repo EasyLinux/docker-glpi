@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 #Controle du choix de version ou prise de la latest
 [[ ! "$VERSION_GLPI" ]] \
